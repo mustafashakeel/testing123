@@ -7,3 +7,6 @@ Writing objects: 100% (3/3), 306 bytes | 306.00 KiB/s, done.
 Total 3 (delta 0), reused 0 (delta 0)
 To github.com:mustafashakeel/testing123.git
    94d6a0f..3fd7e0a  master -> master
+
+   afasdf
+   afasdf
