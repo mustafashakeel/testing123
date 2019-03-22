@@ -1,9 +1,4 @@
-testing 123
-this is a new line 
 
-[master 3fd7e0a]  modified  file
- 1 file changed, 1 insertion(+)
-Mustafas-MacBook-Pro:lesson1 mqureshi$ git push
 Enumerating objects: 5, done.
 Counting objects: 100% (5/5), done.
 Delta compression using up to 8 threads.
