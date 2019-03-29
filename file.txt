@@ -15,7 +15,5 @@ To github.com:mustafashakeel/testing123.git
 
 this is a change on branch1  cool master
 
-anbother line 
-
 
 this is wowwwww
