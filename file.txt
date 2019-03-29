@@ -13,4 +13,4 @@ To github.com:mustafashakeel/testing123.git
 
   This is after the switch 
 
-this is a change on branch1
+this is a change on branch1  cool master
