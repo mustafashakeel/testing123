@@ -11,10 +11,5 @@ To github.com:mustafashakeel/testing123.git
    afasdf
    afasdf
 
-   dasd
-   afasdfDAs
-   dasddas
-   dasda
-   s
+  This is after the switch 
 
-   this is a new update on branch 1
